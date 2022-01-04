@@ -179,12 +179,12 @@ p {
   z-index: 997;
   padding: 15px 0;
   background-color: #fff;
-  top: -100%;
-  box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
+/*  top: -100%;
+*/  box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
 }
-#header.header-scrolled, #header.header-inner-pages {
+/*#header.header-scrolled, #header.header-inner-pages {
   top: 0;
-}
+}*/
 #header .logo {
   font-size: 30px;
   margin: 0;
